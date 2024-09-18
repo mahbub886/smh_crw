@@ -1,1 +1,1 @@
-prunt('sallam ya mahdi')
+print('sallam ya mahdi')
